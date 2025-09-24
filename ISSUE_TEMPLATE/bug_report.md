@@ -6,10 +6,9 @@ labels: bug
 assignees: ''
 ---
 
-### Dist
-run `uname -a` and put the output here.
+$ uname -a
 
-run `program --version` and put the output here.
+$ [PROGRAM] --version
 
 ## Expected Behavior
 
