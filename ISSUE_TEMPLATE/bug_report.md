@@ -8,6 +8,7 @@ assignees: ''
 
 ### Dist
 run `uname -a` and put the output here.
+
 run `program --version` and put the output here.
 
 ## Expected Behavior
